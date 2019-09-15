@@ -1,5 +1,8 @@
 package Thread.StaticProxy;
 
+import java.util.HashMap;
+import java.util.Hashtable;
+
 /**
  * @ClassName StaticProxy
  * @Description 静态代理
@@ -13,6 +16,7 @@ package Thread.StaticProxy;
 public class StaticProxy {
     public static void main(String[] args) {
         new WeddingCompany(new You()).happyMarry();
+
         //new Thread(线程对象).start();
     }
 }
