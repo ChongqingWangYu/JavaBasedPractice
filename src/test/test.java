@@ -5,6 +5,7 @@ import AbstractClass.Student;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Set;
 
 /**
  * @ClassName test.test
@@ -14,9 +15,6 @@ import java.util.List;
  * @GitHub https://github.com/ChongqingWangYu
  */
 public class test {
-    public test() {
-    }
-
     public static void main(String[] args) {
         int x=1;
         float y=2;
