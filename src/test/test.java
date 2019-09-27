@@ -1,12 +1,5 @@
 package test;
 
-import AbstractClass.Student;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Set;
-
 /**
  * @ClassName test.test
  * @Description 测试
@@ -16,8 +9,7 @@ import java.util.Set;
  */
 public class test {
     public static void main(String[] args) {
-        int x=1;
-        float y=2;
-        System.out.println(x/y);
+
     }
+
 }
