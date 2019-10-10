@@ -16,5 +16,4 @@ public class test {
         System.out.println(s1 == s3);
         System.out.println(s1 == s1.intern());
     }
-
 }

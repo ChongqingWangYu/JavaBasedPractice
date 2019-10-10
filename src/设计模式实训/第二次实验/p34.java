@@ -1,4 +1,4 @@
-package 设计模式实训;
+package 设计模式实训.第二次实验;
 
 /**
  * @ClassName p34
