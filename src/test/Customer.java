@@ -14,6 +14,10 @@ public class Customer {
     private Integer cusId;
     private String cusNo;
 
+    public Customer(Integer cusId, String cusNo) {
+        this.cusId = cusId;
+        this.cusNo = cusNo;
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
